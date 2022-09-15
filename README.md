@@ -5,7 +5,7 @@ Repositorio con los resultados de procesar los Datasets presentes en: http://ait
 -De_ataques:
     
           0days_A-420	 
-          0days_Ampliado 
+          0days_revisado
           Fwaf-2200 
           Fwaf-badqueries	 
           ataques-800
